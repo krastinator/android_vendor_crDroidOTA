@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "Murtaza Kolachi",
+            "oem": "Xiaomi",
+            "device": "apollo",
+            "filename": "crDroidAndroid-15.0-20250612-apollo-v11.6.zip",
+            "download": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/CrDroid/crDroidAndroid-15.0-20250612-apollo-v11.6.zip/download",
+            "timestamp": 1749733506,
+            "md5": "ae5faf84d152ea20d96e2d9cc1578942",
+            "sha256": "cef2fb7c1e8215987cdb1fb6e9fd420086ae8cfb8922f14e3b93df5d87e878b7",
+            "size": 1706094884,
+            "version": "11.6",
+            "buildtype": "user",
+            "forum": "",
+            "gapps": "",
+            "firmware": "https://t.me/murtazasapollocommunity/7308",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://t.me/murtazasapollocommunity/12478",
+            "paypal": "https://www.patreon.com/c/murtazakolachi/membership",
+            "telegram": "https://t.me/murtazasapollocommunity",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}

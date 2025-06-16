@@ -1,0 +1,12 @@
+====================
+     06-12-2025
+====================
+
+- Initial crDroid 11.3 release
+- Added Dolby Atmos
+- Touch Features in Thermal Profiles
+- Moved Thermal Profiles to System Settings
+- High Touch Polling Rate
+- Viper4AndroidFX support
+- Improvements to performance and system stability
+- More
